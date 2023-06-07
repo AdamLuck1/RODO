@@ -1,0 +1,29 @@
+select {
+  display: block;
+  width: 100%;
+  min-width: auto;
+  appearance: none;
+  padding: 26px 16px 11px;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 9' fill='none' stroke='%23666' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.8678 1L8.46425 7L1.96216 1' stroke-width='2' stroke-miterlimit='10' stroke-linecap='round'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: 14px;
+  background-position-x: calc(100% - 14px);
+  font-size: 16px;
+  min-width: auto;
+  color: black;
+  margin-bottom: -1px;
+  border-color: #bdbdbd;
+}
+
+.select_field {
+  position: relative;
+}
+
+.select_field label {
+  color: #555;
+  font-size: 12px;
+  position: absolute;
+  left: 17px;
+  top: 9px;
+}

@@ -1,0 +1,15 @@
+.logo {
+  display: block;
+  width: 120px;
+  margin: auto;
+}
+
+.logo svg {
+  fill: #0c6;
+}
+
+header {
+  background: #1a3035;
+  padding: 20px 0 15px;
+  border-bottom: 1px solid #dedede;
+}
